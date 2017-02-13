@@ -4,13 +4,13 @@ platforms: nodejs
 author: denniszielke
 ---
 
-# Web application development with Node.js, Application Insights for Bot Frameowkr
+# Web application development with Node.js, Application Insights for Bot Framework
 This sample shows you how to use the bot framework hosted on Azure Websites. 
 
 ## Running this sample
 1. Deploy the arm template in arm/Website.json to azure
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdenniszielke%2Fhellobot%2Fmaster%2botsite.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fdenniszielke%2Fhellobot%2Fmaster%2Fbotsite.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>  
 
