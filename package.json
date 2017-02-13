@@ -1,0 +1,17 @@
+{
+  "name": "demobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "restify": "^4.3.0",
+    "applicationinsights": "~0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js", "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Zielke",
+  "license": "ISC"
+}
